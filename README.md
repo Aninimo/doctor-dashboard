@@ -28,6 +28,21 @@ Useful tool for performance analysis and planning.
 Robust authentication system to ensure data security.
 Personalized access for authorized doctors.
 
+## Installation 💾
+```
+git clone https://github.com/Aninimo/doctor-dashboard.git
+```
+
+## Install deps:
+```
+npm install
+```
+
+## Run dev server:
+```
+npm run dev
+```
+
 # Stacks
 ● NextJs
 ● Typescript
