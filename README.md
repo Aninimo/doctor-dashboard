@@ -52,10 +52,13 @@ npm run dev
 ```
 
 # Stacks
-● NextJs
-● Typescript
-● TailwindCss
-● Prisma 
-● MongoDB
-● Clerk
-● Jest
+<ul>
+  <li>● NextJs</li>
+  <li>● Typescript</li>
+  <li>● Typescript</li>
+  <li>● TailwindCss</li>
+  <li>● Prisma </li>
+  <li>● MongoDB</li>
+  <li>● Clerk</li>
+  <li>● Jest</li>
+</ul>
