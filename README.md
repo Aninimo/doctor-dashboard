@@ -28,6 +28,9 @@ Useful tool for performance analysis and planning.
 Robust authentication system to ensure data security.
 Personalized access for authorized doctors.
 
+## Demo 
+https://doctor-dashboard-pi.vercel.app/
+
 ## Installation 💾
 ```
 git clone https://github.com/Aninimo/doctor-dashboard.git
@@ -53,12 +56,12 @@ npm run dev
 
 # Stacks
 <ul>
-  <li>● NextJs</li>
-  <li>● Typescript</li>
-  <li>● Typescript</li>
-  <li>● TailwindCss</li>
-  <li>● Prisma </li>
-  <li>● MongoDB</li>
-  <li>● Clerk</li>
-  <li>● Jest</li>
+  <li>NextJs</li>
+  <li>Typescript</li>
+  <li>Typescript</li>
+  <li>TailwindCss</li>
+  <li>Prisma </li>
+  <li>MongoDB</li>
+  <li>Clerk</li>
+  <li>Jest</li>
 </ul>
